@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glyngon
 - 👀 I’m interested in coding and playing games
 - 🌱 I’m currently learning game development in roblox
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creating a game in roblox
 - 📫 How to reach me ...
 
 <!---
